@@ -1,6 +1,7 @@
 # CharactersInPlay
 This Java class, CharactersInPlay, is designed to analyze the frequency of character names in a play, book, or any text file.
 
+This is a Coursera course assignment. Course: Java Programming: Arrays, Lists, and Structured Data https://www.coursera.org/learn/java-programming-arrays-lists-data?specialization=object-oriented-programming
 
 The class reads a text file and looks for lines containing a period (.) to identify character names. This is a common formatting convention used in plays, where character names are followed by a period and then their dialogue.
 
